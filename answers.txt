@@ -7,3 +7,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science could be applied to the energy field. For example, fossil fuel emissions data from powerplants can be analyzed for their impact on the grid.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging puts all the changes of one branch into the other at the same time. Rebasing changes the code contents to that of another branch to work off of.
