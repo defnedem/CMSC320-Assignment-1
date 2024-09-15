@@ -1,3 +1,9 @@
+
 Q1: Why might be consider using git?
 
 Answer: We might consider using git to keep our code files organized, and to keep track of all new edits without affecting the main branch
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to the energy field. For example, fossil fuel emissions data from powerplants can be analyzed for their impact on the grid.
+
